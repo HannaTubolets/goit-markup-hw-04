@@ -200,7 +200,6 @@ body {
     border-radius: 4px;
     background: var(--btn-hover);
 }
-
 /* End Hero Section*/
 
 /* Pluses */
@@ -432,7 +431,7 @@ body {
 }
 
 .icon-footer {
-    fill: currentColor
+    fill: currentColor;
 }
 /* End Footer */
 
